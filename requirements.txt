@@ -1,0 +1,6 @@
+pandas
+sklearn
+matplotlib
+streamlit
+numpy
+Image
